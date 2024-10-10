@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Clémenitine 👋
+# Hi there, I'm Clémentine 👋
 
 I am a motivated tech student currently pursuing a degree in computer science, with a keen interest in product management and quality assurance.
 
