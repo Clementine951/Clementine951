@@ -23,6 +23,10 @@ I am passionate about building innovative solutions tailored to specific problem
 
 You can connect with me to discuss opportunities, share insights, or even collaborate on existing projects.
 
+<div align="center">
+![Clementine951's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clementine951&theme=chartreuse-dark)
+</div>
+
 ## Skills
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
